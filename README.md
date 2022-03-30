@@ -1,3 +1,4 @@
 # Youtube-settings-page
 Youtube settings page implemented using html and css
-![screencapture-127-0-0-1-5501-index-html-2022-03-30-13_50_22](https://user-images.githubusercontent.com/59961654/160839432-5fdb37ee-fc20-44ed-b98a-b93d5c8ce9bd.png)
+![Screenshot (794)](https://user-images.githubusercontent.com/59961654/160842936-a3d675f0-c4f6-4547-a2e4-2008312073a4.png)
+![Screenshot (793)](https://user-images.githubusercontent.com/59961654/160842944-c600b131-58c1-409c-afef-95a19b4ad067.png)
